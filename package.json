@@ -9,7 +9,7 @@
 	"dependencies": {
 		"react": "16.0.0-alpha.12",
 		"react-native": "0.48.2",
-		"react-native-navigation": "^1.1.213",
+		"react-native-navigation": "^1.1.228",
 		"react-native-style-tachyons": "^3.4.2"
 	},
 	"devDependencies": {

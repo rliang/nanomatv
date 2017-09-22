@@ -50,7 +50,7 @@ class ListScreen extends Component {
   renderItem({item}) {
     return (
       <TouchableNativeFeedback onPress={this.onItemPress.bind(this, item)}>
-        <View style={[s.flx_i, s.flx_row, s.aic, s.jcc, s.pa2]}>
+        <View style={[s.flx_i, s.flx_row, s.aic, s.pa2]}>
           <Text style={[s.min_w3, s.f4, s.tc]}>{item.time}</Text>
           <View style={[s.flx_i, s.flx_col, s.pa2]}>
             <Text style={[s.f5]}>{item.type}</Text>
@@ -97,7 +97,7 @@ Navigation.registerComponent('MainScreen', () => MainScreen);
 
 Navigation.startSingleScreenApp({
   screen: {
-    title: 'V NanoMat',
+    title: 'V NanoMat: FAPESP 2017/11785-0',
     screen: 'MainScreen',
     topTabs: ['27/09', '28/09'].map(key => ({
       screenId: 'ListScreen',

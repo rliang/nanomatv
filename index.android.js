@@ -97,7 +97,7 @@ Navigation.registerComponent('MainScreen', () => MainScreen);
 
 Navigation.startSingleScreenApp({
   screen: {
-    title: 'V NanoMat',
+    title: 'V NanoMat: FAPESP 2017/11785-0',
     screen: 'MainScreen',
     topTabs: ['27/09', '28/09'].map(key => ({
       screenId: 'ListScreen',

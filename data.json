@@ -2,28 +2,28 @@
   "27/09": [
     {
       "time": "9:00",
-      "type": "Abertura do Simpósio",
+      "type": "Abertura do Simpósio - Desafio colocado",
       "title": "Quais os caminhos para a excelência do Programa?",
       "who": "",
       "abstract": null
     },
     {
       "time": "9:30",
-      "type": "Sessão Plenária",
+      "type": "Sessão Plenária (Plenary Lecture)",
       "title": "Click nanocatalysis, one molecule at a time",
       "who": "Juan Carlos (Tito) Scaiano (University of Ottawa)",
       "abstract": "Organic photochemistry is an excellent tool for the production of nanostructures of gold, silver, copper, cobalt, niobium, and other elements. Copper (I) is known to be an excellent catalyst for ‘click’ reactions, a characteristic that is shared by copper nanoparticles (CuNP). Three example of CuNP catalyzed click reactions will be presented. We ask the question: Is single molecule spectroscopy ready to become a tool in organic chemistry and drug discovery?\n\nIn the first example colloidal CuNP are used as click catalysts and we ask whether CuNP are the ‘real’ catalysts or merely the providers of Cu(I) in solution. Modern microscopy techniques allow us to examine the catalytic process at a single particle level and one molecule at a time. This allows the differentiation of true heterogeneous catalysis from cases where homogeneous catalysis plays a role, even when the catalyst as-introduced is heterogeneous.\n\nWhile scaling down reactions from ‘the mole to the molecule’ offers a unique intimate understanding of reaction mechanisms, the real challenge is to transfer the molecule-level knowledge back to the laboratory bench thus taking advantage of the information to improve catalysis at the production level. The second example deals with copper-on- charcoal (Cu@C) a commercial catalyst. We use single molecule techniques to understand the efficiency and reactivity of Cu@C and use this knowledge to improve the process at the laboratory scale.\n\nIn a third example we show that the click reaction can be converted into a photoactivated process (photoclick) by decorating TiO 2 with CuO nanoparticles on its surface. This material is not a click catalyst, as the copper is available as Cu(II). However, upon photoexcitation of the TiO 2 support transfers an electron from the conduction band to CuO, effectively producing a Cu(I) site and thus a click catalyst. In this way the click reaction can be photoactivated with the anticipated spatial and temporal control."
     },
     {
       "time": "10:00",
-      "type": "Coffee Break",
+      "type": "Coffee break / Apresentação de pôster",
       "title": "",
       "who": "",
       "abstract": null
     },
     {
       "time": "10:30",
-      "type": "Sessão Plenária",
+      "type": "Sessão Plenária (Plenary Lecture)",
       "title": "2D Topological Insulators: Trends in Chemical Space via Machine Learning",
       "who": "Adalberto Fazzio (USP/UFABC/CNPEM)",
       "abstract": null
@@ -33,74 +33,74 @@
       "type": "Apresentação Oral Docente",
       "title": "Desenvolvimento de materiais funcionais avançados para um futuro sustentável",
       "who": "André Sarto Polo",
-      "abstract": "Suprir a crescente demanda por energia é fundamental para o futuro da humanidade e isso deve ser feito com o desenvolvimento de sistemas capazes de gerar energia com baixo ou nenhum impacto ambiental. A fonte primária de energia que é a mais adequada para esta finalidade é o Sol, pois é limpa e inesgotável . O PoloGroup insere-se neste contexto com o objetivo de investigar processos fundamentais que permitam compreender o processo da conversão de energia e que levem a novas propostas para obter sistemas que convertam a luz solar de maneira mais eficiente em outros tipos de energia, como a química ou elétrica. Inicialmente serão mostrados os sistemas capazes de converter a luz solar em energia química, usando compostos de coordenação para fixar e reduzir o CO2, gerando produtos de maior conteúdo energético. Posteriormente serão apresentados sistemas que convertem diretamente a luz em energia elétrica, através de células solares de perovskitas (PSCs) ou das células solares sensibilizadas por corantes (DSSCs). Em cada um dos tópicos será mostrado brevemente como o PoloGroup tem contribuído para os avanços da área e quais as propostas para a sua evolução."
+      "abstract": "Suprir a crescente demanda por energia é fundamental para o futuro da humanidade e isso deve ser feito com o desenvolvimento de sistemas capazes de gerar energia com baixo ou nenhum impacto ambiental. A fonte primária de energia que é a mais adequada para esta finalidade é o Sol, pois é limpa e inesgotável.\n\nO PoloGroup insere-se neste contexto com o objetivo de investigar processos fundamentais que permitam compreender o processo da conversão de energia e que levem a novas propostas para obter sistemas que convertam a luz solar de maneira mais eficiente em outros tipos de energia, como a química ou elétrica.\n\nInicialmente serão mostrados os sistemas capazes de converter a luz solar em energia química, usando compostos de coordenação para fixar e reduzir o CO2, gerando produtos de maior conteúdo energético. Posteriormente serão apresentados sistemas que convertem diretamente a luz em energia elétrica, através de células solares de perovskitas (PSCs) ou das células solares sensibilizadas por corantes (DSSCs). Em cada um dos tópicos será mostrado brevemente como o PoloGroup tem contribuído para os avanços da área e quais as propostas para a sua evolução."
     },
     {
       "time": "11:15",
       "type": "Apresentação Oral Docente",
       "title": "Metallic nanoparticles and mammals. Do they really like each other? The case of gold and zinc.",
       "who": "Jazmin Silvero Compagnucci",
-      "abstract": "This is the story of how the smallest things can help to solve one of today’s major health issue: superbugs and their deadly infections. Particularly, out latest results showed how gold nanoparticles synthesized and stabilized with amoxicillin are effective to antibiotic resistant strains when irradiated with inexpensive LEDs. At the same time, ex vivo and in vivo test on male Wistar rats proved that they are extremely biofriendly and do not cause any significant cellular or tissue damage. On the other hand, we found that zinc oxide nanoparticles carried in a methacrylate resin could be used in odontology as a 1step solution to caries. This nanomaterial presents antibacterial capacity against anaerobic microorganisms that provoke the dental lesion and, moreover, it is capable of filling the cavity left by the degradation of ostheal structure. Microbiology assay were carried out with clinical samples and TEM images were taken of real human teeth slices. These nanoparticles, not only are safe to odontological applications (FDA approved) but seems to have a positive effect on the tissue regeneration by promoting local cellular activity.These are just two very interesting cases of many promising biological applications of inorganic nanoparticles."
+      "abstract": "This is the story of how the smallest things can help to solve one of today’s major health issue: superbugs and their deadly infections. Particularly, out latest results showed how gold nanoparticles synthesized and stabilized with amoxicillin are effective to antibiotic resistant strains when irradiated with inexpensive LEDs. At the same time, ex vivo and in vivo test on male Wistar rats proved that they are extremely biofriendly and do not cause any significant cellular or tissue damage. On the other hand, we found that zinc oxide nanoparticles carried in a methacrylate resin could be used in odontology as a 1step solution to caries.\n\nThis nanomaterial presents antibacterial capacity against anaerobic microorganisms that provoke the dental lesion and, moreover, it is capable of filling the cavity left by the degradation of ostheal structure. Microbiology assay were carried out with clinical samples and TEM images were taken of real human teeth slices. These nanoparticles, not only are safe to odontological applications (FDA approved) but seems to have a positive effect on the tissue regeneration by promoting local cellular activity.These are just two very interesting cases of many promising biological applications of inorganic nanoparticles."
     },
     {
       "time": "11:30",
       "type": "Apresentação Oral Docente",
-      "title": "Characterization of superparamagnetic iron oxide nanoparticles for potential biomedical applications",
-      "who": "Fábio Ferreira Furlan",
-      "abstract": "The development of nanosized magnetic materials is a subject of considerable interest both for understanding their fundamental properties as well as for new technological applications, since nanoparticles show unique features when compared to bulk or microscale-sized magnets of the same composition. Controlling the structure of nanoparticles is important not only for the study  of structure-dependent properties, such as magnetism, but also to the shape control of nanoparticles. In this talk, we describe the synthesis of two superparamagnetic iron oxide nanoparticles (SPIONs) covered with different ligands – hydrophobic, such  as oleic acid (OA), and hydrophilic, such as tetraethyl ammonium (TEA) – and the investigation of the effects of thermal treatments on the crystal structure and size distribution of TEA-SPIONs and OA-SPIONs produced by thermal decomposition  methods using parametric Rietveld refinements. The structural, morphological and magnetic properties were evaluated using different techniques. X-ray powder diffraction patterns of the covered iron oxide nanoparticles were collected from 30 ºC up to 950 ºC using a heating rate of 5 ºC min-1 with steps of 20 ºC.  To further explore the behavior of the systems we employed a parametric Rietveld refinement approach, to correlate some non-crystallographic effects on how the oxidation process takes place with increasing temperatures for the different systems."
+      "title": "Cellulose Nanostructure Obtained from Residues: Different Methodologies, Their Applications and Life Cycle Assessment",
+      "who": "Derval dos Santos Rosa",
+      "abstract": "The growing demand for more sustainable products and production processes has contributed to the development of new materials that contribute to the lower generation of environmental impacts. In this sense, biodegradable materials have been gaining attention, in particular by enhancing the use of cellulose nanostructure (CNS).\n\nThe use of lignocelluloses biomass is a possible alternative to reuse solid waste. This type of biomass is found worldwide, including agricultural, forest, municipal and industrial waste. There are different methodologies for obtaining cellulose nanostructures, however, the most applied process for cellulose isolation is by acid hydrolysis, which generates toxic residues and may degrade the cellulose structure, reducing their properties. The aim of this paper is to present the main routes to obtain cellulose nanostructure and to show the Life Cycle Assessment results of these methodologies. It will be discussed the need of the pre-treatments of residues. It is still intended to present the main applications of the CNS.\n\nThe results of the different residues and the cellulose nanostructure are presenting using Fourier transform infrared spectroscopy (FTIR), dynamic light scattering (DLS), scanning electronic microscopic (MEV), atomic force microscopy (AFM) thermogravimetric analysis (TGA) and lignocellulosic contents. The obtained nanostructures could be used as good reinforcement materials for nanocomposites production."
     },
     {
       "time": "11:45",
       "type": "Apresentação Oral Docente",
-      "title": "",
+      "title": "Compósito de amido termoplástico reforçado com celulose",
       "who": "Márcia Aparecida da Silva Spinacé",
-      "abstract": null
+      "abstract": "O uso de polímeros biodegradáveis podem apresentar benefícios ambientais devido à sua maior taxa de degradação quando comparados aos polímeros de origem fóssil. Porém, eles apresentam propriedades mecânicas inferiores comparado aos polímeros sintéticos. Uma alternativa é o uso de um composto mais resistente que atua como reforço.\n\nForam preparados nanobiocompósitos biodegradáveis de amido termoplástico reforçado com celulose bacteriana. Os compósitos foram estruturados seguindo o modelo de \"painel sanduíche\", e caracterizados por meio de ensaios de absorção de umidade, Microscopia Eletrônica de Varredura, termogravimetria e ensaios de tração. Os resultados mostraram que os nanobiocompósitos apresentaram menor absorção de umidade que seus constituinte e resistência mecânica cerca de 12 vezes maior que a do amido termoplástico.\n\nA boa adesão entre as fases faz com que o nanobiocompósito estudado seja uma alternativa viável e sustentável para os biopolímeros à base de amido, sendo um material promissor para ser utilizado em aplicações como embalagens alimentícias."
     },
     {
       "time": "12:00",
-      "type": "Almoço",
+      "type": "Almoço (Lunch)",
       "title": "",
       "who": "",
       "abstract": null
     },
     {
       "time": "14:00",
-      "type": "Sessão Plenária",
+      "type": "Sessão Plenária (Plenary Lecture)",
       "title": "Tailoring properties of biodegradable polymers for tissue engineering",
       "who": "Luiz Henrique Catallani (USP)",
-      "abstract": "Our group has developed in recent years, various polymeric materials for applications in biomedical engineering, aiming at the development of scaffolds for cell growth from novel, biodegradable and bioabsorbable polymeric systems. It is intended to create conditions for the control of fundamental properties of the scaffolds for optimization of the artificial tissues creation. Thus, we propose the synthesis and study of a new class of biodegradable polymers for use in biomedicine from a family of polyesters and polyanhydrides derived from dehydroalditols. As basic processing technique, we will use electrospinning, a technique that generates porous meshes exceptionally suitable for production of thin scaffolds. The processes of cell adhesion and proliferation will be tested from culture of basic cellular types. As target tissues, we propose the production of grafts models in the reconstitution of bone defects and treatment of periodontitis, grafts for the regeneration of perforated tympanic membranes, as well as the construction of neural tissue from mesenchymal stem cells. We also propose to study the association of inorganic and/or proteic additives in order to conduct the processes of interest such as the amplification of cell adhesion and proliferation, differentiation, recruitment, stimulation of homeostasis, extracellular matrix production, and any other process for tissue regeneration."
+      "abstract": "Our group has developed in recent years, various polymeric materials for applications in biomedical engineering, aiming at the development of scaffolds for cell growth from novel, biodegradable and bioabsorbable polymeric systems. It is intended to create conditions for the control of fundamental properties of the scaffolds for optimization of the artificial tissues creation.\n\nThus, we propose the synthesis and study of a new class of biodegradable polymers for use in biomedicine from a family of polyesters and polyanhydrides derived from dehydroalditols. As basic processing technique, we will use electrospinning, a technique that generates porous meshes exceptionally suitable for production of thin scaffolds.\n\nThe processes of cell adhesion and proliferation will be tested from culture of basic cellular types. As target tissues, we propose the production of grafts models in the reconstitution of bone defects and treatment of periodontitis, grafts for the regeneration of perforated tympanic membranes, as well as the construction of neural tissue from mesenchymal stem cells. We also propose to study the association of inorganic and/or proteic additives in order to conduct the processes of interest such as the amplification of cell adhesion and proliferation, differentiation, recruitment, stimulation of homeostasis, extracellular matrix production, and any other process for tissue regeneration."
     },
     {
-      "time": "14:30",
-      "type": "Apresentação Oral Discente",
-      "title": "",
-      "who": "",
-      "abstract": null
+      "time": "11:00",
+      "type": "Apresentação Oral Docente",
+      "title": "Biomateriais: Uma abordagem Translacional",
+      "who": "Juliana Marchi",
+      "abstract": "O desenvolvimento de biomateriais para aplicação na medicina regenerativa envolve um processo translacional de pesquisa. Eh desejável e necessário conhecer sua aplicabilidade para a elaboração de um biomaterial adequado e eficaz na sua utilização. Sendo assim, o grupo de pesquisa BioMMR tem focado seus estudos no desenvolvimento de biomateriais nos tratamentos crônicos de infecções e doenças degenerativas como o câncer, e também para reconstrução tecidual de osso e cartilagem.\n\nO grupo BioMMR sintetiza e caracteriza biovidros dopados com terras raras ou nanopartículas de prata para tratamentos de câncer por braquiterapia, hipertermia ou infecções crônicas. Outra linha de pesquisa refere_se à formação de blendas poliméricas com polímeros naturais, sintéticos e óleos vegetais para confecção de scaffolds para a reconstrução de cartilagem in vitro.\n\nCom os projetos desenvolvidos pode-se demonstrar a importância do entendimento das propriedades advindas da interface entre a engenharia de materiais e a biologia celular e tecidual para o desenvolvimento de novos biomateriais."
     },
     {
       "time": "14:45",
       "type": "Apresentação Oral Discente",
-      "title": "",
-      "who": "",
+      "title": "Caracterização Estrutural e Biológica In Vitro de Vidros Biocompatíveis Contendo Terras Raras.",
+      "who": "Roger Borges",
       "abstract": null
     },
     {
       "time": "15:00",
       "type": "Apresentação Oral Discente",
-      "title": "",
-      "who": "",
+      "title": "Photoactive Multilayer Tungsten Oxide Electrode Synthesized Via Dip-Coating Deposition Solution.",
+      "who": "Victoria Castagna Ferrari",
       "abstract": null
     },
     {
       "time": "15:15",
       "type": "Apresentação Oral Discente",
-      "title": "",
-      "who": "",
+      "title": "Starch as Green Coupling Agent for Recycling Polymer Composites",
+      "who": "Daniel Belchior Rocha",
       "abstract": null
     },
     {
       "time": "15:30",
-      "type": "Coffee Break: Apresentação de Posters",
+      "type": "Coffee break / Apresentação de pôster",
       "title": "",
       "who": "",
       "abstract": null
@@ -110,104 +110,111 @@
       "type": "Mesa Redonda",
       "title": "Inovação",
       "who": "Diretoria da Inova UFABC, Profª Anapatrícia O. M. Vilha, Eduardo Couto e Silva (CNPEM)",
-      "abstract": "A Mesa Redonda sobre Inovação traz para o Simpósio as perspectivas para a aplicação dos avanços do conhecimento gerados no Programa de Nanociência e Materiais Avançados, no setor produtivo e quais os caminhos possíveis para tal interação. Esse Simpósio será uma oportunidade para discutir as estratégias de crescimento do Programa pautado não apenas pelos critérios de avaliação da CAPES, mas com igual importância, pelos padrões de excelência internacionais e de interação com o setor produtivo. Em nosso programa tem crescido os depósitos de patentes dos docentes e, com o advento do Doutorado Acadêmico Industrial (DAI) na UFABC e a o SisNano, o PPG-NMA tem ampliado as interações com o setor produtivo. A vinda do Professor Eduardo Couto e Silva para participar dessa Mesa Redonda é de grande valia para atingirmos esse objetivo que contribua para o intercâmbio de informações sobre inovação e estimule novas criações e parcerias científicas."
+      "abstract": "A Mesa Redonda sobre Inovação traz para o Simpósio as perspectivas para a aplicação dos avanços do conhecimento gerados no Programa de Nanociência e Materiais Avançados, no setor produtivo e quais os caminhos possíveis para tal interação. Esse Simpósio será uma oportunidade para discutir as estratégias de crescimento do Programa pautado não apenas pelos critérios de avaliação da CAPES, mas com igual importância, pelos padrões de excelência internacionais e de interação com o setor produtivo.\n\nEm nosso programa tem crescido os depósitos de patentes dos docentes e, com o advento do Doutorado Acadêmico Industrial (DAI) na UFABC e a o SisNano, o PPG-NMA tem ampliado as interações com o setor produtivo. A vinda do Professor Eduardo Couto e Silva para participar dessa Mesa Redonda é de grande valia para atingirmos esse objetivo que contribua para o intercâmbio de informações sobre inovação e estimule novas criações e parcerias científicas."
     }
   ],
   "28/09": [
     {
       "time": "9:00",
-      "type": "Sessão Plenária",
+      "type": "Sessão Plenária (Plenary Lecture)",
       "title": "O futuro da ciência dos materiais com aprendizado de máquina e Big Data",
       "who": "Osvaldo N. Oliveira (USP São Carlos)",
-      "abstract": "Os avanços em aprendizagem de máquina criam a expectativa de que sistemas de inteligência artificial serão onipresentes em futuro próximo, com grande impacto em ciência e tecnologia. A maneira pela qual pesquisadores desenvolvem e otimizam materiais para aplicações variadas já é afetada pela disponibilidade de grandes bancos de dados de propriedades de materiais e de metodologias da chamada Big Data. Nesta palestra, serão dados exemplos de métodos computacionais para lidar com grandes quantidades de dados em sensores e biossensores, que incluem técnicas de aprendizagem de máquina para relacionar dados de espectroscopia de impedância de uma língua eletrônica com a percepção do gosto humano. Para diagnóstico clínico, será enfatizado que é necessária uma convergência de recursos de nanotecnologia e Big Data para a criação de sistemas de diagnóstico assistidos por computador. Por um lado, sensores e biossensores otimizados precisam ser produzidos com nanomateriais e técnicas relacionadas à nanotecnologia, enquanto que, por outro lado, métodos computacionais robustos são cruciais para distinguir entre respostas muito semelhantes, como na detecção de biomarcadores de câncer. Ressalte-se, ademais, que a transformação nos paradigmas de pesquisas exige mudanças urgentes na formação de pesquisadores de materiais."
+      "abstract": "Os avanços em aprendizagem de máquina criam a expectativa de que sistemas de inteligência artificial serão onipresentes em futuro próximo, com grande impacto em ciência e tecnologia. A maneira pela qual pesquisadores desenvolvem e otimizam materiais para aplicações variadas já é afetada pela disponibilidade de grandes bancos de dados de propriedades de materiais e de metodologias da chamada Big Data.\n\nNesta palestra, serão dados exemplos de métodos computacionais para lidar com grandes quantidades de dados em sensores e biossensores, que incluem técnicas de aprendizagem de máquina para relacionar dados de espectroscopia de impedância de uma língua eletrônica com a percepção do gosto humano. Para diagnóstico clínico, será enfatizado que é necessária uma convergência de recursos de nanotecnologia e Big Data para a criação de sistemas de diagnóstico assistidos por computador.\n\nPor um lado, sensores e biossensores otimizados precisam ser produzidos com nanomateriais e técnicas relacionadas à nanotecnologia, enquanto que, por outro lado, métodos computacionais robustos são cruciais para distinguir entre respostas muito semelhantes, como na detecção de biomarcadores de câncer. Ressalte-se, ademais, que a transformação nos paradigmas de pesquisas exige mudanças urgentes na formação de pesquisadores de materiais."
     },
     {
       "time": "9:30",
-      "type": "Apresentação Oral Convidado",
-      "title": "One Pot Synthesis of Metal Nanoparticles by Enzymes that Catalyses Biomass Degradation",
-      "who": "Wanius Garcia",
-      "abstract": null
+      "type": "Sessão Plenária (Plenary Lecture)",
+      "title": "Obtenção, caracetrização e modificação química de nanofibras de origem renovável para sua utilização como reforço de resinas poliolefinicas",
+      "who": "Luiz Henrique Caparelli Mattoso (Embrapa - Instrumentação Agropecuária)",
+      "abstract": "Nanofibras de celulose podem ser preparadas a partir de algodão naturalmente colorido. Esse tipo de nanofibra envolve o uso de tratamento químico, térmico e mecânico e formam soluções coloidais estáveis.\n\nPara a caracterização dessas estruturas, são úteis as técnicas de FEG (do Inglês, field emission scanning), AFM (do Inglês, atomic force microscopy) e XRD (do Inglês, x-ray diffraction). Para a caracterização do conteúdo de celulose a técnica de TGA (do Inglês, thermogravimetric analysis) é bastante útil. As nanofibras tem sido caracterizadas como tendo diâmetro de 10-15 nm e comprimento de 125 a 350 nm.\n\nAs fibras naturalmente coloridas apresentam rendimento diferenciado conforme sua coloração natural sendo que as brancas apresentam o maior rendimento e as marrons maior polidispersão e menor estabilidade térmica.  As nanofibras de celulose são de relevância por serem isoladas da biomassa e serem eficientes para reforçar matrizes poliméricas."
     },
     {
       "time": "10:00",
-      "type": "Coffee Break",
+      "type": "Coffee break / Apresentação de pôster",
       "title": "",
       "who": "",
       "abstract": null
     },
     {
       "time": "10:30",
-      "type": "Sessão Plenária",
+      "type": "Sessão Plenária (Plenary Lecture)",
       "title": "Filmes ultrafinos bioinspirados para sensores e modelos de membrana",
       "who": "Luciano Caseli (UNIFESP)",
-      "abstract": "A investigação de superfícies nanoestruturadas de com compostos biológicos pode ser útil no desenvolvimento de sensores e modelos de membrana celular. Nessa palestra será mostrado como a formação de filmes de Langmuir e Langmuir-Blodgett formado especialmente com lipídios, enzimas e fármacos podem ajudar a trazer informações sobre interações intermoleculares, assim como parâmetros de organização superficial entre componentes de filmes ultrafinos. Por meio de técnicas tais como tensiometria, espectroscopia Vibracional com Modulação da Polarização (PM-IRRAS),e microscopia no ângulo de Brewster é possível de identificar parâmetros de interação entre proteínas, enzimas, fármacos e outras moléculas de interesse biológico em modelos de membrana celular, construídos a partir de monocamadas organizadas na interface ar-água (filmes de Langmuir). Como exemplos mostraremos i) como fármacos com propriedades microbicidas interagem com modelos de membrana de micro-organismos, ii) como processos de reconhecimento celular podem ter seu mecanismo investigado no nível molecular; iii) como enzimas adsorvidas em membrana podem ser investigadas em prol de um objetivo farmacológicos ou tecnológico. Ao fim, se mostrará que o desenvolvimento de filmes moleculares ultrafinos é uma estratégia poderosa para se entender diversos mecanismos de interações intra e intermoleculares."
+      "abstract": "A investigação de superfícies nanoestruturadas de com compostos biológicos pode ser útil no desenvolvimento de sensores e modelos de membrana celular. Nessa palestra será mostrado como a formação de filmes de Langmuir e Langmuir-Blodgett formado especialmente com lipídios, enzimas e fármacos podem ajudar a trazer informações sobre interações intermoleculares, assim como parâmetros de organização superficial entre componentes de filmes ultrafinos.\n\nPor meio de técnicas tais como tensiometria, espectroscopia Vibracional com Modulação da Polarização (PM-IRRAS),e microscopia no ângulo de Brewster é possível de identificar parâmetros de interação entre proteínas, enzimas, fármacos e outras moléculas de interesse biológico em modelos de membrana celular, construídos a partir de monocamadas organizadas na interface ar-água (filmes de Langmuir).\n\nComo exemplos mostraremos i) como fármacos com propriedades microbicidas interagem com modelos de membrana de micro-organismos, ii) como processos de reconhecimento celular podem ter seu mecanismo investigado no nível molecular; iii) como enzimas adsorvidas em membrana podem ser investigadas em prol de um objetivo farmacológicos ou tecnológico. Ao fim, se mostrará que o desenvolvimento de filmes moleculares ultrafinos é uma estratégia poderosa para se entender diversos mecanismos de interações intra e intermoleculares."
     },
     {
       "time": "11:00",
       "type": "Apresentação Oral Docente",
-      "title": "Biomateriais: Uma abordagem Translacional",
-      "who": "Juliana Marchi",
-      "abstract": "O desenvolvimento de biomateriais para aplicação na medicina regenerativa envolve um processo translacional de pesquisa. Eh desejável e necessário conhecer sua aplicabilidade para a elaboração de um biomaterial adequado e eficaz na sua utilização. Sendo assim, o grupo de pesquisa BioMMR tem focado seus estudos no desenvolvimento de biomateriais nos tratamentos crônicos de infecções e doenças degenerativas como o câncer, e também para reconstrução tecidual de osso e cartilagem. O grupo BioMMR sintetiza e caracteriza biovidros dopados com terras raras ou nanopartículas de prata para tratamentos de câncer por braquiterapia, hipertermia ou infecções crônicas. Outra linha de pesquisa refere_se à formação de blendas poliméricas com polímeros naturais, sintéticos e óleos vegetais para confecção de scaffolds para a reconstrução de cartilagem in vitro. Com os projetos desenvolvidos pode-se demonstrar a importância do entendimento das propriedades advindas da interface entre a engenharia de materiais e a biologia celular e tecidual para o desenvolvimento de novos biomateriais."
+      "title": "Magnetic nanoparticles for medical applications: contribution of simulations",
+      "who": "Ronei Miotto",
+      "abstract": "The synthesis and development of nanoscale structures have attracted a great deal of interest in the biomedical area. This is mainly related to the fact that it is possible to design and produce systems whose size is comparable to important biological structures, such as viruses, proteins, and DNA, and hence can interact directly with them.\n\nMagnetic colloids is an interesting example of this class of nanosystem. In fact, the use of magnetic nanoparticles in the biomedical field has increased so much in the last years that this new field is being called biomedical nanomagnetics. The entrapment of these particles by liposome makes them highly dipersible in aqueous media as well as biocompatible. These structures, where a fraction of magnetic nanoparticles are encapsulated into phospholipid vesicles, are known as magnetoliposomes.\n\nThe importance of magnetoliposomes is mainly related to their use as drug or other therapeutic agent and/or peptide delivery systems and in the diagnosis and/or treatment of diseases. In this work we have developed and implement a new approach for the study of magnetoliposomes using Monte Carlo (MC) simulations.\n\nOur model is based in interaction among nanoparticles considering magnetic dipolar, van der Waals, ionic-steric, and Zeeman interaction potentials. A direct comparison between transmission electron microscopy, vibrating sample magnetometer, dynamic light scattering, nanoparticle tracking analysis and static magnetic birefringence experimental derived and simulation data allow us to validate our implementation. Our simulations suggest that confinement plays an important role in aggregate formation."
     },
     {
       "time": "11:15",
       "type": "Apresentação Oral Docente",
-      "title": "",
-      "who": "Ronei Miotto",
-      "abstract": null
+      "title": "Defects and strains in nanostructured materials surfaces studied by high resolution X-ray diffraction",
+      "who": "Roosevelt Droppa Junior",
+      "abstract": "The formation of well-ordered surface patterns with a characteristic size ranging from several nanometers up to microns has attracted much attention in the last decades. Especially the process of self-organized ripple and dot patterns formed during ion beam erosion has gained considerable importance from the technological point of view as they are a recent approach for the production of electronic or optoelectronic devices.\n\nRipple patterned surfaces were obtained by low energy ion bombardment to be used as templates to obtain ordered arrays of Ni catalyzer particles for carbon nanotubes growth. The formation of such arrays can be related to the strains in the patterned substrate. To investigate the structure of such nanostructured surfaces, a tool frequently used is the reciprocal space mapping technique. It is based on methods of high resolution x-ray diffraction applied to single crystals, where it is possible to obtain structural information, such as strain, mosaicity, interface roughness, by scanning several directions around a Bragg peak.\n\nIn this seminar it will be presented the principles of the technique and some results obtained by us in studying nanostructured silicon substrates bombarded with Xe ion beam."
     },
     {
       "time": "11:30",
       "type": "Apresentação Oral Docente",
-      "title": "",
-      "who": "Roosevelt Droppa Junior",
-      "abstract": null
+      "title": "The Effect of Diffusivity of Material from the Contacts in the Performance of Electronic Devices.",
+      "who": "Cedric Rocha Leão",
+      "abstract": "Several technological devices rely on either ionic or electronic conductivity - or both at the same time! In this presentation we discuss how ionic conductivity can be inadvertently increased at the electrical contacts of devices, spoiling their performance with time. We show that a careful choice of the materials to be used as metallic contacts is needed for this reason. Our analysis are based on parameter free quantum simulations and we will use the wide gap semiconductor TlBr, which is employed as a radiation detector, to exemplify our discussions and methods."
     },
     {
       "time": "11:45",
       "type": "Apresentação Oral Docente",
-      "title": "",
-      "who": "Jeverson Teodoro Arantes",
-      "abstract": null
+      "title": "Desvendando alguns dos mistérios da água confinada: seu segundo ponto crítico",
+      "who": "Herculano Martinho",
+      "abstract": "A distinção entre gás e líquida desaparece nos arredores e acima de um ponto especial do diagrama de fases de um dado material, chamado de ponto crítico. Em pressões e temperaturas acima deste ponto, diz-se que o sistema como um fluído supercrítico. Os fluídos supercríticos possuem propriedades singulares de solvatação, que os tornam muito importantes para aplicações tecnológicas.\n\nDe interesse particularmente especial é o comportamento da água em espaços confinados, que se encontra num estado supercrítico. As águas de hidratação um uma enormidade de situações na natureza, como, por exemplo, nas proteínas de nosso organismo, encontra-se no regime confinado.\n\nContudo, apesar a sua reatividade neste regime, suas propriedades termodinâmicas, seu diagrama de fases são um mistério. Por exemplo, previsões teóricas indicam a existência de um segundo ponto crítico para a água confinada. Neste seminário abordaremos recentes avanços obtidos em nosso grupo de pesquisa sobre este tema. Em particular discutiremos estratégias para confinar água, metodologias experimentais e resultados indicando a existência do segundo ponto crítico."
     },
     {
       "time": "12:00",
-      "type": "Almoço",
+      "type": "Almoço (Lunch)",
       "title": "",
       "who": "",
       "abstract": null
     },
     {
       "time": "14:00",
-      "type": "Sessão Plenária",
-      "title": "Obtenção, caracetrização e modificação química de nanofibras de origem renovável para sua utilização como reforço de resinas poliolefinicas",
-      "who": "Luiz Henrique Caparelli Mattoso (Embrapa)",
-      "abstract": "Nanofibras de celulose podem ser preparadas a partir de algodão naturalmente colorido. Esse tipo de nanofibra envolve o uso de tratamento químico, térmico e mecânico e formam soluções coloidais estáveis. Para a caracterização dessas estruturas, são úteis as técnicas de FEG (do Inglês, field emission scanning), AFM (do Inglês, atomic force microscopy) e XRD (do Inglês, x-ray diffraction). Para a caracterização do conteúdo de celulose a técnica de TGA (do Inglês, thermogravimetric analysis) é bastante útil. As nanofibras tem sido caracterizadas como tendo diâmetro de 10-15 nm e comprimento de 125 a 350 nm. As fibras naturalmente coloridas apresentam rendimento diferenciado conforme sua coloração natural sendo que as brancas apresentam o maior rendimento e as marrons maior polidispersão e menor estabilidade térmica.  As nanofibras de celulose são de relevância por serem isoladas da biomassa e serem eficientes para reforçar matrizes poliméricas."
+      "type": "Apresentação Oral Convidado",
+      "title": "One Pot Synthesis of Metal Nanoparticles by Enzymes that Catalyses Biomass Degradation",
+      "who": "Wanius Garcia",
+      "abstract": null
     },
     {
       "time": "14:30",
       "type": "Apresentação Oral Docente",
-      "title": "",
-      "who": "Herculano Martinho",
-      "abstract": null
+      "title": "Characterization of superparamagnetic iron oxide nanoparticles for potential biomedical applications",
+      "who": "Fábio Ferreira Furlan",
+      "abstract": "The development of nanosized magnetic materials is a subject of considerable interest both for understanding their fundamental properties as well as for new technological applications, since nanoparticles show unique features when compared to bulk or microscale-sized magnets of the same composition. Controlling the structure of nanoparticles is important not only for the study  of structure-dependent properties, such as magnetism, but also to the shape control of nanoparticles.\n\nIn this talk, we describe the synthesis of two superparamagnetic iron oxide nanoparticles (SPIONs) covered with different ligands – hydrophobic, such  as oleic acid (OA), and hydrophilic, such as tetraethyl ammonium (TEA) – and the investigation of the effects of thermal treatments on the crystal structure and size distribution of TEA-SPIONs and OA-SPIONs produced by thermal decomposition  methods using parametric Rietveld refinements.\n\nThe structural, morphological and magnetic properties were evaluated using different techniques. X-ray powder diffraction patterns of the covered iron oxide nanoparticles were collected from 30 ºC up to 950 ºC using a heating rate of 5 ºC min-1 with steps of 20 ºC.  To further explore the behavior of the systems we employed a parametric Rietveld refinement approach, to correlate some non-crystallographic effects on how the oxidation process takes place with increasing temperatures for the different systems."
     },
     {
       "time": "14:45",
       "type": "Apresentação Oral Docente",
-      "title": "",
-      "who": "Derval dos Santos Rosa",
+      "title": "Water Adsorption on the Gypsum (0 1 0) Surface: A Theoretical and Experimental Study",
+      "who": "Fabio Negreiros Ribeiro",
       "abstract": null
     },
     {
       "time": "15:00",
-      "type": "Apresentação Oral Pró-Reitoria de Pós-Graduação",
-      "title": "Discussão sobre Aspectos Administrativos do Programa",
-      "who": "",
+      "type": "Apresentação Oral Discente",
+      "title": "Estudo Ab Initio das Propriedades Eletrônicas do BiVO4 dopado com Mo ou W",
+      "who": "Enésio Marinho da Silva Jr",
+      "abstract": null
+    },
+    {
+      "time": "15:15",
+      "type": "Apresentação Oral Docente",
+      "title": "Internacionalização: Um Caminho para a Excelência.",
+      "who": "Diretor da Assessoria de Relações Internacionais da UFABC Carlos Alberto Kamienski",
       "abstract": null
     },
     {
       "time": "15:30",
-      "type": "Coffee Break: Apresentação de Posters",
+      "type": "Coffee break / Apresentação de pôster",
       "title": "",
       "who": "",
       "abstract": null
