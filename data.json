@@ -26,7 +26,7 @@
       "type": "Sessão Plenária (Plenary Lecture)",
       "title": "2D Topological Insulators: Trends in Chemical Space via Machine Learning",
       "who": "Adalberto Fazzio (USP/UFABC/CNPEM)",
-      "abstract": null
+      "abstract": "Quantum spin Hall insulators have attracted considerable scientific interest in recent years. The search for new TIs has often focused on elements with the strong spin-orbit coupling (SOC), which can induce the necessary topological transition. So far, the computational search for new QSHIs has been a numerically costly trial-and- error process that required to compute the Z2 invariant for each compound, since no simple rule of thumb exists that allows distinguishing trivial from topological insulators.\n\nNaturally, the search for new QSHI was thus guided by experience and intuition, e.g., by focusing on heavy elements with high SOC. We follow a different strategy: We first compute the Z2 invariant for a representative set of 2D materials, the ``training'' set. We then use a recently developed machine learning (ML) approach based on compressed sensing to classify trivial and QSH insulators using a physical meaningful ``descriptor''. A non-linear function that only depends on the properties of the material's constituent atoms, but not on the properties of the material itself.\n\nMost importantly, these findings are transferable, since they allow to reliably predict the topological character also for materials that are not part of the original ``training'' set. Finally, we predict new 80 QHS insulator candidates never reported before."
     },
     {
       "time": "11:00",
